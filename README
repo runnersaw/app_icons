@@ -1,0 +1,9 @@
+# App Icons
+
+This repository contains app icons and Python code for generating these icons,
+for use by app developers needing icons for their new applications.
+
+All code and images are covered by the Unlicense, and considered released into
+the public domain. This is intended as a resource for app developers to use
+when creating new applications, as an alternative to paying for icons or being
+required to include a license within your application.
